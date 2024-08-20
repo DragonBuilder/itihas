@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "indian-history-assistant"
+name = "itihas"
 version = "0.1.0"
 description = ""
 authors = ["Aneesh Anil <aneesh@geektrust.in>"]
